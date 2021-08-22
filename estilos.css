@@ -91,16 +91,18 @@ body {
   font-size: 25px;
   padding: 0 20px;
   line-height: 60px;
-  
+  }
+    
   .nav-menu {
   width: 100%;
-  
   height: calc(100%-60px);
   overflow-y: auto;
   }
+  
   .nav-menu-item {
   line-height:  60px;
   }
+  
   .nav-menu-link:hover {
   background: none;
   color: #686261;
